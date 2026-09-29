@@ -1,7 +1,7 @@
-# 👋 Hola, soy David Álvarez
+# Hola, soy David Álvarez
 
 **Técnico de Sistemas Informáticos en Red · Ciberseguridad**
-📍 Barcelona, España
+   Barcelona, España
 
 Estudiante de **CFGS Administración de Sistemas Informáticos en Red (ASIR) – Ciberseguridad** y actualmente en prácticas en el departamento de comunicaciones de **NTT DATA**. Vengo de un perfil internacional en operaciones y coordinación de equipos (6 años en EE. UU.), y ahora combino esa experiencia con formación técnica en redes, sistemas y seguridad para aportar soluciones eficientes y seguras en entornos empresariales.
 
@@ -10,7 +10,7 @@ Estudiante de **CFGS Administración de Sistemas Informáticos en Red (ASIR) –
 
 ---
 
-## 💼 Experiencia actual
+## Experiencia actual
 
 ### Communications Infrastructure & Security Intern · NTT DATA
 *Prácticas ASIR · Barcelona · Desde mayo de 2026*
@@ -26,7 +26,7 @@ Estudiante de **CFGS Administración de Sistemas Informáticos en Red (ASIR) –
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Redes y seguridad**
 
@@ -56,7 +56,7 @@ Estudiante de **CFGS Administración de Sistemas Informáticos en Red (ASIR) –
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción |
 |---|---|
@@ -67,22 +67,22 @@ Estudiante de **CFGS Administración de Sistemas Informáticos en Red (ASIR) –
 
 ---
 
-## 🎓 Formación y certificaciones
+##  Formación y certificaciones
 
 - **CFGS Administración de Sistemas Informáticos en Red – Ciberseguridad** · IFP, Innovación en Formación Profesional (Barcelona) · sept. 2025 – actualidad
 - **CCNA: Introducción a las Redes (70 h)** · Cisco Networking Academy · *en progreso*
 - **Bachelor of Science, Sports Management** · Queens University of Charlotte (EE. UU.) · 2019 – 2022
 
-## 🌍 Idiomas
+##  Idiomas
 
 🇪🇸 Español (nativo) · 🏴 Catalán (C1) · 🇬🇧 Inglés (C1)
 
 ---
 
-## 🧭 Trayectoria previa
+##  Trayectoria previa
 
 Antes de dar el salto a sistemas y redes, trabajé en operaciones y coordinación de equipos en entornos internacionales: **Operations Specialist** en Sthree (Barcelona, 2023–2025), además de puestos en academias y organizaciones deportivas en Nueva York y prácticas en producción esports en Charlotte. Esa etapa me dio gestión de datos, soporte a equipos y clientes, optimización de procesos y comunicación en entornos multiculturales.
 
 ---
 
-⭐ ¿Te interesa alguno de mis proyectos? Échale un vistazo a los repositorios y no dudes en contactarme por [LinkedIn](https://www.linkedin.com/in/davidalvarez1997).
+ ¿Te interesa alguno de mis proyectos? Échale un vistazo a los repositorios y no dudes en contactarme por [LinkedIn](https://www.linkedin.com/in/davidalvarez1997).
