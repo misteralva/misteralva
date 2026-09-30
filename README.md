@@ -3,15 +3,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=David%20Alvarez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Network%20Systems%20Technician%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="David Alvarez header banner" />
 
-<p>
-  <b>Network &amp; Security Intern @ NTT DATA</b><br/>
-  ASIR student · Cybersecurity specialization<br/>
-  Based in Barcelona<br/>
-  <i>Learning day by day</i>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=3FB6D8&center=true&vCenter=true&width=640&lines=Network+%26+Security+Intern+%40+NTT+DATA;ASIR+student+%C2%B7+Cybersecurity+specialization;Based+in+Barcelona;Learning+day+by+day" alt="Network & Security Intern @ NTT DATA · ASIR student · Cybersecurity specialization · Based in Barcelona · Learning day by day" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-misteralva.github.io-0f2027?style=for-the-badge)](https://misteralva.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davidalvarez1997-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalvarez1997)
+![Location](https://img.shields.io/badge/📍_Barcelona-Spain-2c5364?style=for-the-badge)
 
 </div>
 
