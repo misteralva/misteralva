@@ -1,7 +1,7 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=David%20Alvarez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Network%20Systems%20Technician%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="David Alvarez header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=David%20Alvarez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Networking%20%C2%B7%20Firewalls%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="David Alvarez header banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=3FB6D8&center=true&vCenter=true&width=640&lines=Network+%26+Security+Intern+%40+NTT+DATA;ASIR+student+%C2%B7+Cybersecurity+specialization;Based+in+Barcelona;Learning+day+by+day" alt="Network & Security Intern @ NTT DATA · ASIR student · Cybersecurity specialization · Based in Barcelona · Learning day by day" />
@@ -19,7 +19,11 @@
 
 ## 👋 About me
 
-Student of the **CFGS in Network Systems Administration (ASIR) – Cybersecurity** and **Communications Infrastructure & Security Intern at NTT DATA**. I come from an international background in operations and team coordination (6 years in the US), and I now combine that experience with technical training in networking, systems and security to deliver **efficient and secure** solutions in enterprise environments.
+I'm a network and security intern at **NTT DATA** and a student of the **CFGS in Network Systems Administration (ASIR) – Cybersecurity**. Day to day I work on the communications infrastructure of a banking client: firewalls, VPNs, switching, incident management and monitoring.
+
+I come from an international background in operations and team coordination (6 years in the US). Today I combine that experience with hands-on networking and security skills to build **reliable and secure** infrastructure.
+
+🎯 **My goal:** grow as a network and security engineer.
 
 <div align="center">
 
@@ -31,6 +35,17 @@ Student of the **CFGS in Network Systems Administration (ASIR) – Cybersecurity
 
 ---
 
+## 🎯 What I work on
+
+| | |
+|---|---|
+| 🌐 **Enterprise networking** | Switching, routing, VLANs, redundancy and load balancing (Cisco, Cisco ACI, A10, OSPF, HSRP) |
+| 🔥 **Firewalls & VPNs** | Rule and policy management, NAT, site-to-site and remote-access VPNs, traffic troubleshooting (Palo Alto, Check Point, Panorama) |
+| 🛡️ **Security fundamentals** | Traffic analysis, hardening, incident response, backups and disaster recovery |
+| 📊 **Operations & monitoring** | Ticket and incident handling, reporting and real-time metrics (ServiceNow, Grafana) |
+
+---
+
 ## 💼 Experience
 
 <details open>
@@ -38,15 +53,12 @@ Student of the **CFGS in Network Systems Administration (ASIR) – Cybersecurity
 
 <br/>
 
-| | |
-|---|---|
-| 🎫 **Incident management** | End-to-end handling of network requests and incidents with **ServiceNow**: opening, tracking and closing tickets in a banking client environment. |
-| 🔥 **Firewalls** | Administration and monitoring of **Palo Alto** and **Check Point** firewalls, both directly on the device and centrally through **Panorama**: rules, policies, log analysis and troubleshooting of blocked traffic. |
-| 🔐 **NAT & VPN** | Configuration and support of NAT and site-to-site and remote-access VPNs. |
-| 🔀 **Switching** | Support with **Cisco** switch configuration and **Cisco ACI** environments. |
-| ⚖️ **Load balancing** | **A10** load balancers: reviewing and adjusting configurations to keep services available. |
-| 🖥️ **Servers** | Management and maintenance of servers within the client's communications infrastructure. |
-| 📊 **Reporting & monitoring** | Regular network status reports and real-time metrics monitoring with **Grafana**. |
+- **Incident management:** end-to-end handling of network requests and incidents with **ServiceNow** in a banking client environment.
+- **Firewalls:** administration and monitoring of **Palo Alto** and **Check Point**, on the device and centrally through **Panorama** — rules, policies, log analysis and troubleshooting of blocked traffic.
+- **NAT & VPN:** configuration and support of NAT, site-to-site and remote-access VPNs.
+- **Switching & load balancing:** support with **Cisco** switches and **Cisco ACI**, and review of **A10** load balancer configurations to keep services available.
+- **Servers:** management and maintenance within the client's communications infrastructure.
+- **Reporting & monitoring:** regular network status reports and real-time metrics with **Grafana**.
 
 </details>
 
@@ -70,17 +82,30 @@ Data management, support for internal teams and clients, process improvement and
 
 <div align="center">
 
-**Networking & security**
+**Networking**
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![A10](https://img.shields.io/badge/A10_Networks-0078D4?style=for-the-badge)
+
+`OSPF` · `HSRP` · `VLAN / VTP` · `STP` · `NAT / PAT` · `ACLs` · `DHCP` · `DNS` · `SSH`
+
+**Security**
+
 ![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 ![Check Point](https://img.shields.io/badge/Check_Point-E6007E?style=for-the-badge)
-![A10](https://img.shields.io/badge/A10_Networks-0078D4?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+`Firewalls` · `Site-to-site VPN` · `Remote-access VPN` · `Panorama`
+
+**Systems & monitoring**
+
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,grafana&perline=10" alt="Systems and monitoring" />
+
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 
-**Systems, monitoring & development**
+**Web & data**
 
-<img src="https://skillicons.dev/icons?i=linux,windows,grafana,bash,git,html,css,js,php,mysql&perline=10" alt="Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git&perline=10" alt="Web and data" />
 
 </div>
 
@@ -92,31 +117,42 @@ Data management, support for internal teams and clients, process improvement and
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/misteralva/AlwaysOnTech-Red-Empresarial">AlwaysOnTech</a></h3>
-      Full enterprise network built in <b>Cisco Packet Tracer</b>: OSPF, HSRP, VLANs, NAT/PAT, ACLs, DHCP, DNS, SSH, VoIP and ISP redundancy.
+      Full enterprise network in <b>Cisco Packet Tracer</b>: OSPF, HSRP, VLANs, NAT/PAT, ACLs, DHCP Snooping, SSH, Syslog, VoIP and ISP redundancy.
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/misteralva/lec-database">lec-database</a></h3>
-      Web application to manage the LEC: <b>MySQL</b> with stored procedures, triggers and roles, plus an admin panel in <b>PHP</b>.
+      <h3>🛡️ <a href="https://github.com/misteralva/Seguridad-y-Alta-Disponibilidad">Security & High Availability</a></h3>
+      Labs for the ASIR security module: OSINT, traffic analysis with <b>Wireshark</b>, ransomware and phishing incident simulations, backups and disaster recovery.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧑‍💻 <a href="https://github.com/misteralva/misteralva.github.io">Portfolio & CV</a></h3>
-      My personal website built with HTML, CSS and JavaScript, deployed on GitHub Pages.
+      <h3>🔧 <a href="https://github.com/misteralva/Serveis-de-Xarxa-i-Internet">Network & Internet Services</a></h3>
+      ASIR module on directory services, DNS, DHCP, web and mail servers, digital certificates, VPNs and firewalls.
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/misteralva/Pachinko">Pachinko</a></h3>
-      Interactive Pachinko game, a frontend web development project.
+      <h3>🗄️ <a href="https://github.com/misteralva/lec-database">lec-database</a></h3>
+      PHP + MySQL web app built with security in mind: 45 stored procedures, 12 triggers, role-based access, CSRF protection, prepared statements and an automatic audit log.
     </td>
   </tr>
 </table>
 
+<div align="center">
+
+More of my work, including my CV, on my 👉 [**portfolio**](https://misteralva.github.io)
+
+</div>
+
 ---
+
+## 📚 Learning
+
+- 📜 **CCNA: Introduction to Networks** (70 h) — Cisco Networking Academy · *in progress*
+- 🛡️ **ASIR – Cybersecurity specialization** — IFP, Barcelona
+- 🔬 **Hands-on practice:** firewalls, VPNs and incident management at work; labs and simulations in my coursework
 
 ## 🎓 Education
 
 - **CFGS in Network Systems Administration (ASIR) – Cybersecurity** · IFP, Barcelona · 2025 – Present
-- **CCNA: Introduction to Networks (70 h)** · Cisco Networking Academy · *in progress*
 - **B.Sc. in Sports Management** · Queens University of Charlotte · 2019 – 2022
 
 ---
@@ -125,7 +161,7 @@ Data management, support for internal teams and clients, process improvement and
 
 ### 📫 Let's talk
 
-If you're interested in my profile or any of my projects, feel free to reach out on LinkedIn.
+Interested in networking, security or my projects? Reach out on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/Contact_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalvarez1997)
 
