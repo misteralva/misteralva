@@ -37,25 +37,11 @@ I come from an international background in operations and team coordination (6 y
 
 </div>
 
-> 💡 Always curious about learning how networks work.
+<div align="center">
 
-```bash
-david@misteralva:~$ whoami
-david-alvarez
+<img src="https://raw.githubusercontent.com/misteralva/misteralva/main/terminal.svg" alt="Terminal: whoami prints misteralva. echo $MOTTO prints: Always asking how things actually work." width="760" />
 
-david@misteralva:~$ cat role.txt
-Network & Security Intern @ NTT DATA
-
-david@misteralva:~$ cat focus.txt
-firewalls · vpns · enterprise networking · incident response
-
-david@misteralva:~$ ./status.sh
-[ OK ] ASIR – Cybersecurity ........... in progress
-[ OK ] NTT DATA internship ............ active
-[ .. ] CCNA: Intro to Networks ........ in progress
-
-david@misteralva:~$ _
-```
+</div>
 
 ---
 
