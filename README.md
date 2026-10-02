@@ -23,15 +23,39 @@ I'm a network and security intern at **NTT DATA** and a student of the **CFGS in
 
 I come from an international background in operations and team coordination (6 years in the US). Today I combine that experience with hands-on networking and security skills to build **reliable and secure** infrastructure.
 
-🎯 **My goal:** grow as a network and security engineer.
-
 <div align="center">
 
-| 🎓 Education | 💼 Right now | 🌍 Languages | 📜 In progress |
-|:---:|:---:|:---:|:---:|
-| CFGS ASIR<br/>Cybersecurity | Internship at<br/>NTT DATA | 🇪🇸 Native<br/>🏴 C1 · 🇬🇧 C1 | CCNA: Intro<br/>to Networks |
+![Education](https://img.shields.io/badge/🎓_Education-CFGS_ASIR_·_Cybersecurity-203a43?style=for-the-badge)
+![Internship](https://img.shields.io/badge/💼_Internship-NTT_DATA-2c5364?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/📜_CCNA-In_progress-1BA0D7?style=for-the-badge)
+
+<br/>
+
+![Spanish](https://img.shields.io/badge/Spanish-Native-2c5364?style=flat-square)
+![Catalan](https://img.shields.io/badge/Catalan-C1-2c5364?style=flat-square)
+![English](https://img.shields.io/badge/English-C1-2c5364?style=flat-square)
 
 </div>
+
+> 💡 Always curious about learning how networks work.
+
+```bash
+david@misteralva:~$ whoami
+david-alvarez
+
+david@misteralva:~$ cat role.txt
+Network & Security Intern @ NTT DATA
+
+david@misteralva:~$ cat focus.txt
+firewalls · vpns · enterprise networking · incident response
+
+david@misteralva:~$ ./status.sh
+[ OK ] ASIR – Cybersecurity ........... in progress
+[ OK ] NTT DATA internship ............ active
+[ .. ] CCNA: Intro to Networks ........ in progress
+
+david@misteralva:~$ _
+```
 
 ---
 
@@ -144,16 +168,39 @@ More of my work, including my CV, on my 👉 [**portfolio**](https://misteralva.
 
 ---
 
-## 📚 Learning
+## 🏅 Certifications
 
-- 📜 **CCNA: Introduction to Networks** (70 h) — Cisco Networking Academy · *in progress*
-- 🛡️ **ASIR – Cybersecurity specialization** — IFP, Barcelona
-- 🔬 **Hands-on practice:** firewalls, VPNs and incident management at work; labs and simulations in my coursework
+| Certification | Issuer | Status |
+|---|---|---|
+| **CCNA: Introduction to Networks** (70 h) | Cisco Networking Academy | 🟡 In progress |
 
 ## 🎓 Education
 
 - **CFGS in Network Systems Administration (ASIR) – Cybersecurity** · IFP, Barcelona · 2025 – Present
 - **B.Sc. in Sports Management** · Queens University of Charlotte · 2019 – 2022
+
+---
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=misteralva&show_icons=true&hide_border=true&bg_color=0f2027&title_color=3FB6D8&icon_color=3FB6D8&text_color=c9d1d9" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misteralva&layout=compact&langs_count=6&hide_border=true&bg_color=0f2027&title_color=3FB6D8&text_color=c9d1d9" alt="Most used languages" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=misteralva&hide_border=true&background=0f2027&ring=3FB6D8&fire=3FB6D8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3FB6D8&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misteralva/misteralva/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/misteralva/misteralva/output/github-snake.svg" />
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/misteralva/misteralva/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
