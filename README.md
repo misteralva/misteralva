@@ -39,7 +39,7 @@ I come from an international background in operations and team coordination (6 y
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/misteralva/misteralva/main/terminal.svg" alt="Terminal: whoami prints misteralva. echo $MOTTO prints: Always asking how things actually work." width="760" />
+<img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/terminal.svg" alt="Terminal: whoami prints misteralva. echo $MOTTO prints: Always asking how things actually work." width="760" />
 
 </div>
 
@@ -127,24 +127,51 @@ Data management, support for internal teams and clients, process improvement and
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/misteralva/AlwaysOnTech-Red-Empresarial">AlwaysOnTech</a></h3>
-      Full enterprise network in <b>Cisco Packet Tracer</b>: OSPF, HSRP, VLANs, NAT/PAT, ACLs, DHCP Snooping, SSH, Syslog, VoIP and ISP redundancy.
+      Full enterprise network in <b>Cisco Packet Tracer</b>: OSPF, HSRP, VLANs, NAT/PAT, ACLs, DHCP Snooping, SSH, Syslog, VoIP and ISP redundancy.<br/><br/>
+      <code>Packet Tracer</code> <code>OSPF</code> <code>HSRP</code> <code>VLAN</code> <code>NAT</code>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/misteralva/Seguridad-y-Alta-Disponibilidad">Security & High Availability</a></h3>
-      Labs for the ASIR security module: OSINT, traffic analysis with <b>Wireshark</b>, ransomware and phishing incident simulations, backups and disaster recovery.
+      Labs for the ASIR security module: OSINT, traffic analysis with <b>Wireshark</b>, ransomware and phishing incident simulations, backups and disaster recovery.<br/><br/>
+      <code>Wireshark</code> <code>OSINT</code> <code>Incident response</code> <code>Backups</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔧 <a href="https://github.com/misteralva/Serveis-de-Xarxa-i-Internet">Network & Internet Services</a></h3>
-      ASIR module on directory services, DNS, DHCP, web and mail servers, digital certificates, VPNs and firewalls.
+      ASIR module on directory services, DNS, DHCP, web and mail servers, digital certificates, VPNs and firewalls.<br/><br/>
+      <code>DNS</code> <code>DHCP</code> <code>Web &amp; mail</code> <code>VPN</code>
     </td>
     <td width="50%" valign="top">
       <h3>🗄️ <a href="https://github.com/misteralva/lec-database">lec-database</a></h3>
-      PHP + MySQL web app built with security in mind: 45 stored procedures, 12 triggers, role-based access, CSRF protection, prepared statements and an automatic audit log.
+      PHP + MySQL web app built with security in mind: 45 stored procedures, 12 triggers, role-based access, CSRF protection, prepared statements and an automatic audit log.<br/><br/>
+      <code>PHP</code> <code>MySQL</code> <code>Stored procedures</code> <code>RBAC</code> <code>CSRF</code>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>🌐 AlwaysOnTech — network topology</b></summary>
+
+<br/>
+
+```mermaid
+flowchart TB
+    CONS["Remote consultants"] --> ISP1["ISP1"]
+    ISP1 --- R0["R0 · edge router · OSPF"]
+    ISP2["ISP2"] --- R1["R1 · edge router · OSPF"]
+    R0 --- C0["Core0 · L3 · HSRP"]
+    R0 --- C1["Core1 · L3 · HSRP"]
+    R1 --- C0
+    R1 --- C1
+    C0 --- D0["Dist0"]
+    C1 --- D1["Dist1"]
+    D0 --- ACC
+    D1 --- ACC
+    ACC["Access switches · one VLAN per department<br/>HR · Sales · Operations · Finance · IT · Servers"]
+```
+
+</details>
 
 <div align="center">
 
@@ -178,13 +205,6 @@ More of my work, including my CV, on my 👉 [**portfolio**](https://misteralva.
 
 <img src="https://streak-stats.demolab.com?user=misteralva&hide_border=true&background=0f2027&ring=3FB6D8&fire=3FB6D8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3FB6D8&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misteralva/misteralva/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/misteralva/misteralva/output/github-snake.svg" />
-  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/misteralva/misteralva/output/github-snake.svg" />
-</picture>
 
 </div>
 
