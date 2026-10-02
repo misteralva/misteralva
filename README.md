@@ -126,26 +126,26 @@ Data management, support for internal teams and clients, process improvement and
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/misteralva/Pachinko">Pachinko</a></h3>
+      Japanese pachinko simulator with real ball physics (<b>Matter.js</b>), digital reels, Fever mode and a local leaderboard. Built with pure HTML, CSS and JavaScript.<br/><br/>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Matter.js</code> <code>Web Audio API</code>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/misteralva/AlwaysOnTech-Red-Empresarial">AlwaysOnTech</a></h3>
       Full enterprise network in <b>Cisco Packet Tracer</b>: OSPF, HSRP, VLANs, NAT/PAT, ACLs, DHCP Snooping, SSH, Syslog, VoIP and ISP redundancy.<br/><br/>
       <code>Packet Tracer</code> <code>OSPF</code> <code>HSRP</code> <code>VLAN</code> <code>NAT</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/misteralva/Seguridad-y-Alta-Disponibilidad">Security & High Availability</a></h3>
-      Labs for the ASIR security module: OSINT, traffic analysis with <b>Wireshark</b>, ransomware and phishing incident simulations, backups and disaster recovery.<br/><br/>
-      <code>Wireshark</code> <code>OSINT</code> <code>Incident response</code> <code>Backups</code>
-    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 <a href="https://github.com/misteralva/Serveis-de-Xarxa-i-Internet">Network & Internet Services</a></h3>
-      ASIR module on directory services, DNS, DHCP, web and mail servers, digital certificates, VPNs and firewalls.<br/><br/>
-      <code>DNS</code> <code>DHCP</code> <code>Web &amp; mail</code> <code>VPN</code>
-    </td>
     <td width="50%" valign="top">
       <h3>🗄️ <a href="https://github.com/misteralva/lec-database">lec-database</a></h3>
       PHP + MySQL web app built with security in mind: 45 stored procedures, 12 triggers, role-based access, CSRF protection, prepared statements and an automatic audit log.<br/><br/>
       <code>PHP</code> <code>MySQL</code> <code>Stored procedures</code> <code>RBAC</code> <code>CSRF</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 <a href="https://github.com/misteralva/misteralva.github.io">misteralva.github.io</a></h3>
+      My personal portfolio and online CV, built with HTML, CSS and JavaScript and deployed on GitHub Pages.<br/><br/>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GitHub Pages</code>
     </td>
   </tr>
 </table>
@@ -158,8 +158,10 @@ Data management, support for internal teams and clients, process improvement and
 ```mermaid
 flowchart TB
     CONS["Remote consultants"] --> ISP1["ISP1"]
-    ISP1 --- R0["R0 · edge router · OSPF"]
-    ISP2["ISP2"] --- R1["R1 · edge router · OSPF"]
+    ISP1 --- FW1["Firewall 1"]
+    ISP2["ISP2"] --- FW2["Firewall 2"]
+    FW1 --- R0["R0 · edge router · OSPF"]
+    FW2 --- R1["R1 · edge router · OSPF"]
     R0 --- C0["Core0 · L3 · HSRP"]
     R0 --- C1["Core1 · L3 · HSRP"]
     R1 --- C0
@@ -172,12 +174,6 @@ flowchart TB
 ```
 
 </details>
-
-<div align="center">
-
-More of my work, including my CV, on my 👉 [**portfolio**](https://misteralva.github.io)
-
-</div>
 
 ---
 
