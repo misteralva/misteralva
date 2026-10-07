@@ -126,26 +126,26 @@ Data management, support for internal teams and clients, process improvement and
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/misteralva/Pachinko">Pachinko</a></h3>
-      Japanese pachinko simulator with real ball physics (<b>Matter.js</b>), digital reels, Fever mode and a local leaderboard. Built with pure HTML, CSS and JavaScript.<br/><br/>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Matter.js</code> <code>Web Audio API</code>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/misteralva/AlwaysOnTech-Red-Empresarial">AlwaysOnTech</a></h3>
       Full enterprise network in <b>Cisco Packet Tracer</b>: OSPF, HSRP, VLANs, NAT/PAT, ACLs, DHCP Snooping, SSH, Syslog, VoIP and ISP redundancy.<br/><br/>
       <code>Packet Tracer</code> <code>OSPF</code> <code>HSRP</code> <code>VLAN</code> <code>NAT</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🗄️ <a href="https://github.com/misteralva/lec-database">lec-database</a></h3>
       PHP + MySQL web app built with security in mind: 45 stored procedures, 12 triggers, role-based access, CSRF protection, prepared statements and an automatic audit log.<br/><br/>
       <code>PHP</code> <code>MySQL</code> <code>Stored procedures</code> <code>RBAC</code> <code>CSRF</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🧑‍💻 <a href="https://github.com/misteralva/misteralva.github.io">misteralva.github.io</a></h3>
-      My personal portfolio and online CV, built with HTML, CSS and JavaScript and deployed on GitHub Pages.<br/><br/>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GitHub Pages</code>
+      <h3>🐧 <a href="https://github.com/misteralva/Bash">Bash</a></h3>
+      A 24-exercise path from first scripts to system and network administration tasks: connectivity checks, port checks, log analysis, backups and scheduled jobs. Every exercise comes with a statement and a commented solution.<br/><br/>
+      <code>Bash</code> <code>Linux</code> <code>WSL</code> <code>sysadmin</code> <code>cron</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/misteralva/python">Python</a></h3>
+      Learning Python from zero with a networking and cybersecurity focus: IP and port validation, log analysis, and later scanners and command-line tools. Continues the Bash repo in the same format.<br/><br/>
+      <code>Python</code> <code>Networking</code> <code>Cybersecurity</code> <code>Automation</code>
     </td>
   </tr>
 </table>
