@@ -36,7 +36,7 @@ I'm a student of the **CFGS in Network Systems Administration (ASIR) – Cyberse
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/terminal.svg" alt="Terminal: whoami prints misteralva. echo $MOTTO prints: Always asking how things actually work." width="760" />
+<img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/terminal.svg?v=2" alt="Terminal: whoami prints misteralva. echo $MOTTO prints: Always asking how things actually work." width="760" />
 
 </div>
 
@@ -79,9 +79,13 @@ I'm a student of the **CFGS in Network Systems Administration (ASIR) – Cyberse
 ![PuTTY](https://img.shields.io/badge/PuTTY-4A4A4A?style=for-the-badge)
 ![Blackbox](https://img.shields.io/badge/Blackbox-111111?style=for-the-badge)
 
-**Scripting, web & data**
+**Scripting**
 
-<img src="https://skillicons.dev/icons?i=bash,powershell,python,html,css,js,php,mysql,git,github&perline=10" alt="Bash, PowerShell, Python, HTML, CSS, JavaScript, PHP, MySQL, Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=bash,powershell,python&perline=10" alt="Bash, PowerShell and Python" />
+
+**Web & data**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github&perline=10" alt="HTML, CSS, JavaScript, PHP, MySQL, Git and GitHub" />
 
 </div>
 
@@ -91,11 +95,11 @@ I'm a student of the **CFGS in Network Systems Administration (ASIR) – Cyberse
 
 <div align="center">
 
-<a href="https://github.com/misteralva/AlwaysOnTech-Red-Empresarial"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-alwaysontech.svg" alt="AlwaysOnTech: full enterprise network in Cisco Packet Tracer" width="760" /></a>
-<a href="https://github.com/misteralva/lec-database"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-lec-database.svg" alt="lec-database: PHP and MySQL web app with stored procedures and auditing" width="372" /></a>
-<a href="https://github.com/misteralva/sysadmin"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-sysadmin.svg" alt="sysadmin: sysadmin practice exercises" width="372" /></a>
-<a href="https://github.com/misteralva/Bash"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-bash.svg" alt="Bash: scripting exercises path" width="372" /></a>
-<a href="https://github.com/misteralva/python"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-python.svg" alt="python: Python from zero with a networking and cybersecurity focus" width="372" /></a>
+<a href="https://github.com/misteralva/AlwaysOnTech-Red-Empresarial"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-alwaysontech.svg?v=3" alt="AlwaysOnTech: full enterprise network in Cisco Packet Tracer" width="372" /></a>
+<a href="https://github.com/misteralva/lec-database"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-lec-database.svg?v=3" alt="lec-database: PHP and MySQL web app with stored procedures and auditing" width="372" /></a>
+<a href="https://github.com/misteralva/sysadmin"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-sysadmin.svg?v=3" alt="sysadmin: sysadmin practice exercises" width="372" /></a>
+<a href="https://github.com/misteralva/Bash"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-bash.svg?v=3" alt="Bash: scripting exercises path" width="372" /></a>
+<a href="https://github.com/misteralva/python"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-python.svg?v=3" alt="python: Python from zero with a networking and cybersecurity focus" width="372" /></a>
 
 </div>
 
