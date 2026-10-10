@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=David%20Alvarez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Networking%20%C2%B7%20Firewalls%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="David Alvarez header banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=3FB6D8&center=true&vCenter=true&width=640&lines=Network+%26+Security+Intern+%40+NTT+DATA;ASIR+student+%C2%B7+Cybersecurity+specialization;Based+in+Barcelona;Learning+day+by+day" alt="Network & Security Intern @ NTT DATA · ASIR student · Cybersecurity specialization · Based in Barcelona · Learning day by day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=3FB6D8&center=true&vCenter=true&width=640&lines=ASIR+student+%C2%B7+Cybersecurity+specialization;Based+in+Barcelona;Learning+day+by+day" alt="ASIR student · Cybersecurity specialization · Based in Barcelona · Learning day by day" />
 </a>
 
 <br/>
@@ -19,14 +19,11 @@
 
 ## 👋 About me
 
-I'm a network and security intern at **NTT DATA** and a student of the **CFGS in Network Systems Administration (ASIR) – Cybersecurity**. Day to day I work on the communications infrastructure of a banking client: firewalls, VPNs, switching, incident management and monitoring.
-
-I come from an international background in operations and team coordination (6 years in the US). Today I combine that experience with hands-on networking and security skills to build **reliable and secure** infrastructure.
+I'm a student of the **CFGS in Network Systems Administration (ASIR) – Cybersecurity**. I build and document projects around networking, systems and security, from enterprise network designs and secure web apps to scripting exercises.
 
 <div align="center">
 
 ![Education](https://img.shields.io/badge/🎓_Education-CFGS_ASIR_·_Cybersecurity-203a43?style=for-the-badge)
-![Internship](https://img.shields.io/badge/💼_Internship-NTT_DATA-2c5364?style=for-the-badge)
 ![CCNA](https://img.shields.io/badge/📜_CCNA-In_progress-1BA0D7?style=for-the-badge)
 
 <br/>
@@ -42,49 +39,6 @@ I come from an international background in operations and team coordination (6 y
 <img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/terminal.svg" alt="Terminal: whoami prints misteralva. echo $MOTTO prints: Always asking how things actually work." width="760" />
 
 </div>
-
----
-
-## 🎯 What I work on
-
-| | |
-|---|---|
-| 🌐 **Enterprise networking** | Switching, routing, VLANs, redundancy and load balancing (Cisco, Cisco ACI, A10, OSPF, HSRP) |
-| 🔥 **Firewalls & VPNs** | Rule and policy management, NAT, site-to-site and remote-access VPNs, traffic troubleshooting (Palo Alto, Check Point, Panorama) |
-| 🛡️ **Security fundamentals** | Traffic analysis, hardening, incident response, backups and disaster recovery |
-| 📊 **Operations & monitoring** | Ticket and incident handling, reporting and real-time metrics (ServiceNow, Grafana) |
-
----
-
-## 💼 Experience
-
-<details open>
-<summary><b>🛡️ Communications Infrastructure & Security Intern · NTT DATA</b> &nbsp;·&nbsp; <i>May 2026 – Present</i></summary>
-
-<br/>
-
-- **Incident management:** end-to-end handling of network requests and incidents with **ServiceNow** in a banking client environment.
-- **Firewalls:** administration and monitoring of **Palo Alto** and **Check Point**, on the device and centrally through **Panorama** — rules, policies, log analysis and troubleshooting of blocked traffic.
-- **NAT & VPN:** configuration and support of NAT, site-to-site and remote-access VPNs.
-- **Switching & load balancing:** support with **Cisco** switches and **Cisco ACI**, and review of **A10** load balancer configurations to keep services available.
-- **Servers:** management and maintenance within the client's communications infrastructure.
-- **Reporting & monitoring:** regular network status reports and real-time metrics with **Grafana**.
-
-</details>
-
-<details>
-<summary><b>🧭 Previous career in operations</b></summary>
-
-<br/>
-
-- **Operations Specialist** · Sthree, Barcelona · 2023 – 2025
-- **Player Relation Manager** · Chronis Elite, New York · 2022 – 2023
-- **Player Developmental / Project Manager Assistant** · DV7 Soccer, New York · 2022 – 2023
-- **Operations Trainee** · Carolina Esports Hub, Charlotte · 2022
-
-Data management, support for internal teams and clients, process improvement and work in multicultural environments.
-
-</details>
 
 ---
 
@@ -104,18 +58,30 @@ Data management, support for internal teams and clients, process improvement and
 ![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 ![Check Point](https://img.shields.io/badge/Check_Point-E6007E?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-`Firewalls` · `Site-to-site VPN` · `Remote-access VPN` · `Panorama`
+`Firewalls` · `Panorama` · `Site-to-site VPN` · `Remote-access VPN`
 
-**Systems & monitoring**
+**Systems & virtualization**
 
-<img src="https://skillicons.dev/icons?i=linux,windows,bash,grafana&perline=10" alt="Systems and monitoring" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker&perline=10" alt="Linux, Ubuntu, Debian, Windows and Docker" />
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+**Monitoring & tools**
+
+<img src="https://skillicons.dev/icons?i=grafana&perline=10" alt="Grafana" />
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-4A4A4A?style=for-the-badge)
+![Blackbox](https://img.shields.io/badge/Blackbox-111111?style=for-the-badge)
 
-**Web & data**
+**Scripting, web & data**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git&perline=10" alt="Web and data" />
+<img src="https://skillicons.dev/icons?i=bash,powershell,python,html,css,js,php,mysql,git,github&perline=10" alt="Bash, PowerShell, Python, HTML, CSS, JavaScript, PHP, MySQL, Git and GitHub" />
 
 </div>
 
@@ -123,32 +89,15 @@ Data management, support for internal teams and clients, process improvement and
 
 ## 📂 Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/misteralva/AlwaysOnTech-Red-Empresarial">AlwaysOnTech</a></h3>
-      Full enterprise network in <b>Cisco Packet Tracer</b>: OSPF, HSRP, VLANs, NAT/PAT, ACLs, DHCP Snooping, SSH, Syslog, VoIP and ISP redundancy.<br/><br/>
-      <code>Packet Tracer</code> <code>OSPF</code> <code>HSRP</code> <code>VLAN</code> <code>NAT</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/misteralva/lec-database">lec-database</a></h3>
-      PHP + MySQL web app built with security in mind: 45 stored procedures, 12 triggers, role-based access, CSRF protection, prepared statements and an automatic audit log.<br/><br/>
-      <code>PHP</code> <code>MySQL</code> <code>Stored procedures</code> <code>RBAC</code> <code>CSRF</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐧 <a href="https://github.com/misteralva/Bash">Bash</a></h3>
-      A 24-exercise path from first scripts to system and network administration tasks: connectivity checks, port checks, log analysis, backups and scheduled jobs. Every exercise comes with a statement and a commented solution.<br/><br/>
-      <code>Bash</code> <code>Linux</code> <code>WSL</code> <code>sysadmin</code> <code>cron</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/misteralva/python">Python</a></h3>
-      Learning Python from zero with a networking and cybersecurity focus: IP and port validation, log analysis, and later scanners and command-line tools. Continues the Bash repo in the same format.<br/><br/>
-      <code>Python</code> <code>Networking</code> <code>Cybersecurity</code> <code>Automation</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/misteralva/AlwaysOnTech-Red-Empresarial"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-alwaysontech.svg" alt="AlwaysOnTech: full enterprise network in Cisco Packet Tracer" width="760" /></a>
+<a href="https://github.com/misteralva/lec-database"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-lec-database.svg" alt="lec-database: PHP and MySQL web app with stored procedures and auditing" width="372" /></a>
+<a href="https://github.com/misteralva/sysadmin"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-sysadmin.svg" alt="sysadmin: sysadmin practice exercises" width="372" /></a>
+<a href="https://github.com/misteralva/Bash"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-bash.svg" alt="Bash: scripting exercises path" width="372" /></a>
+<a href="https://github.com/misteralva/python"><img src="https://raw.githubusercontent.com/misteralva/misteralva/main/assets/card-python.svg" alt="python: Python from zero with a networking and cybersecurity focus" width="372" /></a>
+
+</div>
 
 <details>
 <summary><b>🌐 AlwaysOnTech — network topology</b></summary>
